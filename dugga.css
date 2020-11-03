@@ -1,0 +1,59 @@
+body,h1,h2,div,p 
+{ 
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+.sidhuvud {
+    font-size: 14px;
+    margin-bottom: 70px;
+}
+
+body { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 30px;
+    margin-left: 30px;
+    line-height: 30px;
+    width: 780px;
+}
+
+h1 { 
+        font-weight: lighter;
+        margin-top: 30px;
+        margin-bottom: 40px;
+
+}
+
+
+h2 {
+    font-size: 18px;  
+    margin-bottom: 0px;
+}
+
+div { 
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+p { 
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+.correct {
+    color:  limegreen;
+}
+
+.incorrect {
+    color:  red;
+}
